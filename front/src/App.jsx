@@ -1,5 +1,5 @@
 //dependencies
-import axios from "axios";
+import axios from "axios" ;
 // components
 import Cards from "./components/cards/Cards";
 import Nav from "./components/nav/Nav";
